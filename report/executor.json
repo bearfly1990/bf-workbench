@@ -1,0 +1,10 @@
+{
+  "name": "BF-Workbench",
+  "type": "Project",
+  "url": "xxx",
+  "buildOrder": 1,
+  "buildName": "Build by pytest",
+  "buildUrl": "xxx",
+  "reportUrl": "localhost:9999/AllureReport",
+  "reportName": "Bf Workbench Report"
+}
